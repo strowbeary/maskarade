@@ -1,0 +1,9 @@
+[package]
+name = "maskarade"
+version = "0.1.0"
+authors = ["StrowBeary <remicaillot5@gmail.com>"]
+
+[dependencies]
+ramp = "0.4.1"
+rand = "0.5.3"
+pbr = "1.0.1"
