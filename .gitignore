@@ -65,5 +65,5 @@ fabric.properties
 .idea/httpRequests
 
 
-/*.mask
-/*.png
+*.mask
+*.png
